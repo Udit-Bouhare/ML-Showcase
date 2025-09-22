@@ -34,9 +34,9 @@ Each project includes datasets (or download links), Jupyter notebooks, scripts, 
 
 | Project | Description | Status | Preview |
 |---------|-------------|--------|---------|
-| [House Price Prediction](./house-price-prediction) | Predict house prices using regression models (Linear Regression, Random Forest) | ✅ Completed | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100"> |
-| [Sentiment Analysis](./sentiment-analysis) | Classifying text as positive or negative using NLP | ✅ Completed | <img src="https://media.giphy.com/media/l0HlQ7LRalJ1ciV6s/giphy.gif" width="100"> |
-| [Image Classification](./image-classification) | Classifying images using CNNs | 🔄 In Progress | <img src="https://media.giphy.com/media/26FPpWcjG3P9Wgf9G/giphy.gif" width="100"> |
+| [House Price Prediction](./house-price-prediction) | Predict house prices using regression models (Linear Regression, Random Forest) | ✅ Completed | <img src="assets/3oEjI6SIIHBdRxXI40.gif" width="100" /> |
+| [Titanic Survival Prediction](./titanic-survival-prediction) | Predicting passenger survival on the Titanic dataset using classification models | ✅ Completed | <img src="assets/26xBukh0YJ5aj3v68.gif" width="100" /> |
+| [Image Classification](./image-classification) | Classifying images using CNNs | 🔄 In Progress | <img src="assets/26FPpWcjG3P9Wgf9G.gif" width="100" /> |
 
 > Add more projects as you progress.
 
