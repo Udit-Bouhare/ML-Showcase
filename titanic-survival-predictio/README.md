@@ -7,7 +7,7 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
   </a>
-  <a href="https://github.com/yourusername/titanic-survival-prediction/stargazers">
+  <a href="https://github.com/Udit-Bouhare/titanic-survival-prediction/stargazers">
     <img src="https://img.shields.io/github/stars/yourusername/titanic-survival-prediction?style=social" alt="GitHub Stars">
   </a>
 </p>
