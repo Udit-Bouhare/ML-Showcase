@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/repo-size/Udit-Bouhare/ML-Showcase?color=blue" />
   </a>
   <a href="https://github.com/Udit-Bouhare/ML-Showcase">
-    <img src="https://img.shields.io/github/languages/top/Udit-Bouharee/ML-Showcase?color=yellow" />
+    <img src="https://img.shields.io/github/languages/top/Udit-Bouhare/ML-Showcase?color=yellow" />
   </a>
   <a href="https://github.com/Udit-Bouhare/ML-Showcase">
     <img src="https://img.shields.io/github/last-commit/Udit-Bouhare/ML-Showcase?color=green" />
