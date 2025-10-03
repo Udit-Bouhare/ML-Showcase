@@ -52,7 +52,7 @@ Each project includes datasets (or download links), Jupyter notebooks, scripts, 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/ML-Showcase.git
+git clone https://github.com/<Udit-Bouhare>/ML-Showcase.git
 cd ML-Showcase
 ```
 2. Create a virtual environment:
@@ -70,8 +70,3 @@ pip install -r requirements.txt
 This repository is licensed under the MIT License. See the LICENSE
  file for details.
 
- ## 💬 Contact
-
-GitHub: 
-
-Email: youremail@example.com
