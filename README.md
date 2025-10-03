@@ -34,10 +34,8 @@ Each project includes datasets (or download links), Jupyter notebooks, scripts, 
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [House Price Prediction](./house-price-prediction) | Predict house prices using regression models (Linear Regression, Random Forest) | ✅ Completed | 
+| [student score prediction](./student-score-rediction) | Predict house prices using regression models (Linear Regression, Random Forest) | ✅ Completed | 
 | [Titanic Survival Prediction](./titanic-survival-prediction) | Predicting passenger survival on the Titanic dataset using classification models | ✅ Completed | 
-| [Image Classification](./image-classification) | Classifying images using CNNs | 🔄 In Progress | 
-> Add more projects as you progress.
 
 ---
 
